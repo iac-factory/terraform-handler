@@ -21,6 +21,8 @@ declarations
 declarations/*
 declarations/**
 
+.terraform.lock.hcl
+
 .terraform/*
 
 *.tfstate
